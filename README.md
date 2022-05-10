@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Basma Hijazy</h1>
+<h1 align="center">Hi 👋, I'm Basma Mohamed Hijazy</h1>
 <h3 align="center">Quality Control engineer from Egypt</h3>
 
 - 👀 I’m interested in **Software Testing**
