@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [github: Basma-Hijazy](https://github.com/Basma-Hijazy)
 
-- 📫 How to reach me bso.oma.hijazy@gmail.com
+- 📫 Reach me through bso.oma.hijazy@gmail.com
 
-- 📄 Know about my experiences in [My CV](https://drive.google.com/file/d/1d3n13yCEEEOF7IHQ6ZVcCR4jmYIgc6Bd/view?usp=drive_link)
+- 📄 Look at my experiences in [My CV](https://drive.google.com/file/d/1d3n13yCEEEOF7IHQ6ZVcCR4jmYIgc6Bd/view?usp=drive_link)
 
 - ⚡ Fun fact **I love cooking**
 
