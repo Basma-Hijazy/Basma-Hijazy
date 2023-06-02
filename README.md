@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **API Testing**
 
-- 👨‍💻 All of my projects are available at[github: Basma-Hijazy](https://github.com/Basma-Hijazy)
+- 👨‍💻 All of my projects are available at [github: Basma-Hijazy](https://github.com/Basma-Hijazy)
 
 - 📫 How to reach me **bso.oma.hijazy@gmail.com**
 
