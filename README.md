@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bso.oma.hijazy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h8-LKOIvPOYjBN4kSlwyXTZpgM4pdA6e/view?usp=sharing](https://drive.google.com/file/d/1h8-LKOIvPOYjBN4kSlwyXTZpgM4pdA6e/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1d3n13yCEEEOF7IHQ6ZVcCR4jmYIgc6Bd/view?usp=drive_link 
 
 - ⚡ Fun fact **I love cooking**
 
