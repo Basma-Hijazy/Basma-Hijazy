@@ -3,13 +3,13 @@
 
 - 👀 I’m interested in **Software Testing**
 
-- 🌱 I’m currently learning **API Testing**
+- 🌱 I’m currently learning **Automated API Testing**
 
 - 👨‍💻 All of my projects are available at [github: Basma-Hijazy](https://github.com/Basma-Hijazy)
 
-- 📫 Reach me through bso.oma.hijazy@gmail.com
+- 📫 Reach me through basmahijazy2@gmail.com
 
-- 📄 Look at my experiences in [My CV](https://drive.google.com/file/d/1d3n13yCEEEOF7IHQ6ZVcCR4jmYIgc6Bd/view?usp=drive_link)
+- 📄 Look at my experiences in [My CV](https://drive.google.com/file/d/1j2BdgrO6PbYI7TaOZVY5V_3mfIqsp_5d/view?usp=sharing)
 
 - ⚡ Fun fact **I love cooking**
 
