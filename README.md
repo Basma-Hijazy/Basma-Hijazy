@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Basma Mohamed Hijazy</h1>
 <h3 align="center">Quality Control engineer</h3>
 
-- 👀 I’m interested in **Software Testing**
+- 👀 I’m currently working as **Software Tester**
 
 - 🌱 I’m currently learning **Automated API Testing**
 
