@@ -15,20 +15,17 @@ I'm Basma Mohamed Hijazy</h1>
 
 - 👯 I’m looking to collaborate on **Freelancing projects**
 
-- 👀 All of my projects are available at [github: Basma-Hijazy](https://github.com/Basma-Hijazy)
-
-- 💬 Ask me about **Manual Testing, Automation Testing, ISTQB**
+- 💬 Ask me about **Manual Testing, Automation Testing, API**
 
 - 📫 Reach me through basmahijazy2@gmail.com
 
-- 📄 Look at my experiences in [My CV](https://drive.google.com/file/d/1j2BdgrO6PbYI7TaOZVY5V_3mfIqsp_5d/view?usp=sharing)
+- 📄 Look at my experiences in [My CV](https://drive.google.com/file/d/1o5gYTUkVmCanMdjFEyW0WrzsoQ1fyJBQ/view?usp=sharing)
 
 - ⚡ Fun fact **I love cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/basma-hijazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basma-hijazy" height="30" width="40" /></a>
-<a href="https://instagram.com/basma__hijazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basma__hijazy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
